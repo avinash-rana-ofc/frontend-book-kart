@@ -1,6 +1,9 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
+To Create Next JS App => npx create-next-app@latest
+# Adding Shadow Depaendency
+npx shadcn@latest init
 
 First, run the development server:
 
